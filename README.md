@@ -18,21 +18,15 @@ This is a simple Hangman game implemented in Python. The game randomly selects a
 6. The game ends when the player either guesses the word correctly or runs out of attempts.
 ## Installation & Usage
 1. Clone this repository:
-  bash
-  Copy
-  Edit
-  git clone https://github.com/your-username/hangman-game.git
-  cd hangman-game
-  Ensure you have Python 3+ installed.
+   
+    git clone https://github.com/your-username/hangman-game.git
+    cd hangman-game
+   Ensure you have Python 3+ installed.
 ## Run the game:
-  bash
-  Copy
-  Edit
+
   python hangman.py
   Make sure words.txt exists in the same directory, containing a list of words (one per line).
   Example words.txt
-  Copy
-  Edit
   python
   developer
   computer
